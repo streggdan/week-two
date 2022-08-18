@@ -1,0 +1,14 @@
+p{
+    color:aqua ;
+}
+
+li{
+    color:purple;
+}
+
+img{
+    border-radius: 50%;
+    max-width: 8%;
+    opacity: .7;
+    
+}
